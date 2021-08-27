@@ -1,0 +1,9 @@
+C:\Repo Folder\SchedulingAssistant\MeetingAvailabilityChecker\bin\Debug\netstandard2.0\MeetingAvailabilityChecker.deps.json
+C:\Repo Folder\SchedulingAssistant\MeetingAvailabilityChecker\bin\Debug\netstandard2.0\MeetingAvailabilityChecker.dll
+C:\Repo Folder\SchedulingAssistant\MeetingAvailabilityChecker\bin\Debug\netstandard2.0\MeetingAvailabilityChecker.pdb
+C:\Repo Folder\SchedulingAssistant\MeetingAvailabilityChecker\obj\Debug\netstandard2.0\MeetingAvailabilityChecker.csprojAssemblyReference.cache
+C:\Repo Folder\SchedulingAssistant\MeetingAvailabilityChecker\obj\Debug\netstandard2.0\MeetingAvailabilityChecker.csproj.CoreCompileInputs.cache
+C:\Repo Folder\SchedulingAssistant\MeetingAvailabilityChecker\obj\Debug\netstandard2.0\MeetingAvailabilityChecker.AssemblyInfoInputs.cache
+C:\Repo Folder\SchedulingAssistant\MeetingAvailabilityChecker\obj\Debug\netstandard2.0\MeetingAvailabilityChecker.AssemblyInfo.cs
+C:\Repo Folder\SchedulingAssistant\MeetingAvailabilityChecker\obj\Debug\netstandard2.0\MeetingAvailabilityChecker.dll
+C:\Repo Folder\SchedulingAssistant\MeetingAvailabilityChecker\obj\Debug\netstandard2.0\MeetingAvailabilityChecker.pdb

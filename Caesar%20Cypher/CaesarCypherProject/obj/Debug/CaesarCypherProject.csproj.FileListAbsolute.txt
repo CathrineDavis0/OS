@@ -1,0 +1,7 @@
+C:\Repo Folder\Caesar%20Cypher\CaesarCypherProject\bin\Debug\CaesarCypherProject.exe.config
+C:\Repo Folder\Caesar%20Cypher\CaesarCypherProject\bin\Debug\CaesarCypherProject.exe
+C:\Repo Folder\Caesar%20Cypher\CaesarCypherProject\bin\Debug\CaesarCypherProject.pdb
+C:\Repo Folder\Caesar%20Cypher\CaesarCypherProject\obj\Debug\CaesarCypherProject.csprojAssemblyReference.cache
+C:\Repo Folder\Caesar%20Cypher\CaesarCypherProject\obj\Debug\CaesarCypherProject.csproj.CoreCompileInputs.cache
+C:\Repo Folder\Caesar%20Cypher\CaesarCypherProject\obj\Debug\CaesarCypherProject.exe
+C:\Repo Folder\Caesar%20Cypher\CaesarCypherProject\obj\Debug\CaesarCypherProject.pdb

@@ -1,0 +1,11 @@
+C:\Repo Folder\WePizzas\Pizza Calculator\Pizza Calculator Console\bin\Debug\netcoreapp2.1\Pizza Calculator Console.deps.json
+C:\Repo Folder\WePizzas\Pizza Calculator\Pizza Calculator Console\bin\Debug\netcoreapp2.1\Pizza Calculator Console.runtimeconfig.json
+C:\Repo Folder\WePizzas\Pizza Calculator\Pizza Calculator Console\bin\Debug\netcoreapp2.1\Pizza Calculator Console.runtimeconfig.dev.json
+C:\Repo Folder\WePizzas\Pizza Calculator\Pizza Calculator Console\bin\Debug\netcoreapp2.1\Pizza Calculator Console.dll
+C:\Repo Folder\WePizzas\Pizza Calculator\Pizza Calculator Console\bin\Debug\netcoreapp2.1\Pizza Calculator Console.pdb
+C:\Repo Folder\WePizzas\Pizza Calculator\Pizza Calculator Console\obj\Debug\netcoreapp2.1\Pizza Calculator Console.csprojAssemblyReference.cache
+C:\Repo Folder\WePizzas\Pizza Calculator\Pizza Calculator Console\obj\Debug\netcoreapp2.1\Pizza Calculator Console.csproj.CoreCompileInputs.cache
+C:\Repo Folder\WePizzas\Pizza Calculator\Pizza Calculator Console\obj\Debug\netcoreapp2.1\Pizza Calculator Console.AssemblyInfoInputs.cache
+C:\Repo Folder\WePizzas\Pizza Calculator\Pizza Calculator Console\obj\Debug\netcoreapp2.1\Pizza Calculator Console.AssemblyInfo.cs
+C:\Repo Folder\WePizzas\Pizza Calculator\Pizza Calculator Console\obj\Debug\netcoreapp2.1\Pizza Calculator Console.dll
+C:\Repo Folder\WePizzas\Pizza Calculator\Pizza Calculator Console\obj\Debug\netcoreapp2.1\Pizza Calculator Console.pdb
